@@ -1,0 +1,6 @@
+{
+  "name": "CardioPredict — Cardiovascular Disease Prediction and Visualization Dashboard",
+  "description": "Interactive R/Shiny dashboard analyzing cardiovascular disease occurrence across age groups, risk factors, machine learning models, and socioeconomic disparities using Kaggle and CDC BRFSS 2015 data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
